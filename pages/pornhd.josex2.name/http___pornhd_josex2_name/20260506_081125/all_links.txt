@@ -1,0 +1,2 @@
+/favicon.ico
+https://www.cloudflare.com
