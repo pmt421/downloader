@@ -87,12 +87,16 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [4](https://github.com/pmt421/downloader/tree/main/downloads/4)
 
 2. [BigBrother_AnotherStory-0.09.2.03-pc-compressed](https://github.com/pmt421/downloader/tree/main/downloads/BigBrother_AnotherStory-0.09.2.03-pc-compressed)
 
-3. [get-cookies.txt-locally_v0.7.2_chrome](https://github.com/pmt421/downloader/tree/main/downloads/get-cookies.txt-locally_v0.7.2_chrome)
+3. [WhiteDNS-1.0.0-arm64-v8a](https://github.com/pmt421/downloader/tree/main/downloads/WhiteDNS-1.0.0-arm64-v8a)
+
+4. [get-cookies.txt-locally_v0.7.2_chrome](https://github.com/pmt421/downloader/tree/main/downloads/get-cookies.txt-locally_v0.7.2_chrome)
 
 ---
