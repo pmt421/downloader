@@ -89,6 +89,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [4](https://github.com/pmt421/downloader/tree/main/downloads/4)
@@ -98,5 +100,7 @@ https://github.com/nikzad-avasam/youtube-dl
 3. [WhiteDNS-1.0.0-arm64-v8a](https://github.com/pmt421/downloader/tree/main/downloads/WhiteDNS-1.0.0-arm64-v8a)
 
 4. [get-cookies.txt-locally_v0.7.2_chrome](https://github.com/pmt421/downloader/tree/main/downloads/get-cookies.txt-locally_v0.7.2_chrome)
+
+5. [sni-spoof-rs-windows-amd64](https://github.com/pmt421/downloader/tree/main/downloads/sni-spoof-rs-windows-amd64)
 
 ---
